@@ -1,0 +1,2 @@
+public class ExercisesCap07 {
+}
